@@ -1,4 +1,7 @@
 # nlp_amazon_reviews
+
+
+## Introduction
 Merchants selling products through ecommerce often received a high amount of customers reviews too large in scale for human processing. These reviews often have important business insights that can be leveraged to perform actions that can improve profits. In this project we analyze ~400,000 mobile phone reviews from Amazon.com aiming to find trends and patterns to determine which product characteristics are mentioned most by customers and with what sentiment.
 
 Our task is performed in six steps:
@@ -17,3 +20,9 @@ Our task is performed in six steps:
 
 The dataset can be found in Kaggle:
 - https://www.kaggle.com/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones/downloads/Amazon_Unlocked_Mobile.csv
+
+## Methodology
+
+A flowchart of the project, including the approach, performance and final business analysis is presented below:
+
+<img src="Methodology.PNG">

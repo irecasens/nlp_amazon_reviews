@@ -1,5 +1,5 @@
 # nlp_amazon_reviews
-
+View notebook <a href="https://github.com/irecasens/nlp_amazon_reviews/blob/master/Sentiment%20Analysis%20Notebook.ipynb"> here </a>.
 
 ## Introduction
 Merchants selling products through ecommerce often received a high amount of customers reviews too large in scale for human processing. These reviews often have important business insights that can be leveraged to perform actions that can improve profits. In this project we analyze ~400,000 mobile phone reviews from Amazon.com aiming to find trends and patterns to determine which product characteristics are mentioned most by customers and with what sentiment.
